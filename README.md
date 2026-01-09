@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on [JobCompass project](https://github.com/YaroslavKazeev/2025.10.23-JobCompass) to add new features both on the FE and BE
 
+### 🌱 I’m going to learn TypeScript and Django in the nearest future ...
+
 <br/>
 
 <h3 align="center">
