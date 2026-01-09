@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 ## Hi, I'm Yaroslav 👋
 
 - Full-stack developer with strong analytical skills<br/>
-- Studied the web development since 2023.
-- Focused on a user-friendly solutions based on data-driven backend<br/>
+- Studied web development since 2023.
+- Focused on user-friendly solutions based on a data-driven backend<br/>
 - Working on both individual and group projects and experimenting with new technologies<br/>
 
 ### 🔭 I’m currently working on [JobCompass project](https://github.com/YaroslavKazeev/2025.10.23-JobCompass) to add new features both on the FE and BE
 
-### 🌱 I’m going to learn TypeScript and Django in the nearest future ...
+### 🌱 I’m going to learn TypeScript and Django in the near future
 
 <br/>
 
