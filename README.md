@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 📬
-⚙️
+🔭
 -->
 
 ## Hi, I'm Yaroslav 👋
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Focused on user-friendly solutions based on a data-driven backend<br/>
 - Working on both individual and group projects and experimenting with new technologies<br/>
 
-### 🔭 I’m currently working on [JobCompass project](https://github.com/YaroslavKazeev/2025.10.23-JobCompass) to add new features both on the FE and BE
+### 🚀 I’m currently working on [JobCompass project](https://github.com/YaroslavKazeev/2025.10.23-JobCompass) to add new features both on the FE and BE
 
 ### 🌱 I’m going to deepen my knowledge in TypeScript and Django in the near future
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <tr>
     <th>🌐 Full-Stack</th>
     <th>🎨 Front-End</th>
-    <th>🚀 Back-End</th>
+    <th>⚙️ Back-End</th>
   </tr>
   <tr>
     <td>
