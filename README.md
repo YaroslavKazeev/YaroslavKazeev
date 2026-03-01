@@ -43,6 +43,9 @@ Here are some ideas to get you started:
       <a href="https://www.cursor.com/">
         <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI">
       </a>
+      <a href="https://github.com/features/actions">
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+      </a>
       <a href="https://github.com/features/copilot">
         <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
       </a>
