@@ -67,6 +67,9 @@ Here are some ideas to get you started:
       <a href="https://www.postman.com/">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
       </a>
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      </a>
       <a href="https://code.visualstudio.com/">
         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
       </a>
