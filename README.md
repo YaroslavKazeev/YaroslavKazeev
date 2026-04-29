@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 📬
 🔭
+☁️
+🗂️
 -->
 
 ## Hi, I'm Yaroslav 👋
@@ -22,9 +24,9 @@ Here are some ideas to get you started:
 - Focused on user-friendly solutions based on a data-driven backend<br/>
 - Working on both individual and group projects and experimenting with new technologies<br/>
 
-### 🚀 I’m currently working on [JobCompass project](https://github.com/YaroslavKazeev/2025.10.23-JobCompass) to add new features both on the FE and BE
+### 🚀 I’m currently working on the migration [Bieb in Bloei](https://github.com/fdnd-agency/biebinbloei.nl) and [Visual thinking](https://github.com/fdnd-agency/visual-thinking) websites from Hygraph to Directus CMS, as well as as developing my own project [JobCompass](https://github.com/YaroslavKazeev/2025.10.23-JobCompass)
 
-### 🌱 I’m going to deepen my knowledge in TypeScript and Django in the near future
+### 🌱 I’m going to deepen my knowledge in SvelteKit and Django in the near future
 
 <br/>
 
@@ -37,44 +39,30 @@ Here are some ideas to get you started:
     <th>🌐 Full-Stack</th>
     <th>🎨 Front-End</th>
     <th>⚙️ Back-End</th>
+    <th>🗄️ Database & ☁️ Cloud</th>
   </tr>
   <tr>
     <td>
-      <a href="https://www.cursor.com/">
-        <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI">
+      <a href="https://www.djangoproject.com/">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
       </a>
-      <a href="https://github.com/features/actions">
-        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-      </a>
-      <a href="https://github.com/features/copilot">
-        <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+      <a href="https://graphql.org/">
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
       </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
       </a>
-      <a href="https://jestjs.io/">
-        <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
-      </a>
       <a href="https://tools.ietf.org/html/rfc7519">
         <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
-      </a>
-      <a href="https://www.kernel.org/">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
       </a>
       <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter">
         <img src="https://img.shields.io/badge/Model--View--Presenter%20%28MVP%29-6C757D?style=for-the-badge&logoColor=white" alt="MVP">
       </a>
-      <a href="https://www.postman.com/">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+      <a href="https://kit.svelte.dev/">
+        <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit">
       </a>
       <a href="https://www.typescriptlang.org/">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-      </a>
-      <a href="https://code.visualstudio.com/">
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-      </a>
-      <a href="https://windsurf.dev/">
-        <img src="https://img.shields.io/badge/Windsurf-1F2937?style=for-the-badge&logo=wind&logoColor=white" alt="Windsurf">
       </a>
     </td>
     <td>
@@ -92,14 +80,11 @@ Here are some ideas to get you started:
       </a>
     </td>
     <td>
-      <a href="https://en.wikipedia.org/wiki/API">
-        <img src="https://img.shields.io/badge/API%20Development-FF6C37?style=for-the-badge&logoColor=white" alt="API Development">
-      </a>
       <a href="https://en.wikipedia.org/wiki/Bcrypt">
         <img src="https://img.shields.io/badge/bcrypt-000000?style=for-the-badge&logo=lock&logoColor=white" alt="bcrypt">
       </a>
-      <a href="https://www.djangoproject.com/">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+      <a href="https://directus.io/">
+        <img src="https://img.shields.io/badge/Directus-64E2B5?style=for-the-badge&logo=directus&logoColor=black" alt="Directus">
       </a>
       <a href="https://en.wikipedia.org/wiki/Domain_Name_System">
         <img src="https://img.shields.io/badge/DNS-0078D4?style=for-the-badge&logo=dns&logoColor=white" alt="DNS">
@@ -110,17 +95,11 @@ Here are some ideas to get you started:
       <a href="https://developers.google.com/maps">
         <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps API">
       </a>
-      <a href="https://www.mongodb.com/">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-      </a>
-      <a href="https://www.mysql.com/">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <a href="https://hygraph.com/">
+        <img src="https://img.shields.io/badge/Hygraph-052D49?style=for-the-badge&logo=hygraph&logoColor=white" alt="Hygraph">
       </a>
       <a href="https://nodejs.org/">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-      </a>
-      <a href="https://www.postgresql.org/">
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
       </a>
       <a href="https://www.python.org/">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -129,7 +108,62 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logoColor=white" alt="REST APIs">
       </a>
     </td>
+    <td>
+      <a href="https://www.mongodb.com/">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      </a>
+      <a href="https://www.mysql.com/">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      </a>
+      <a href="https://www.postgresql.org/">
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      </a>
+    </td>
   </tr>
+</table>
+
+<h3 align="center">
+🛠️ **Tools & Testing**
+</h3>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://antigravity.ai/">
+        <img src="https://img.shields.io/badge/Antigravity-6366F1?style=for-the-badge&logo=sparkles&logoColor=white" alt="Antigravity">
+      </a>
+      <a href="https://www.cursor.com/">
+        <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI">
+      </a>
+      <a href="https://www.docker.com/">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      </a>
+      <a href="https://github.com/features/actions">
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+      </a>
+      <a href="https://github.com/features/copilot">
+        <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+      </a>
+      <a href="https://jestjs.io/">
+        <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+      </a>
+      <a href="https://kiro.ai/">
+        <img src="https://img.shields.io/badge/Kiro-8B5CF6?style=for-the-badge&logoColor=white" alt="Kiro">
+      </a>
+      <a href="https://www.kernel.org/">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+      </a>
+      <a href="https://www.postman.com/">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+      </a>
+      <a href="https://code.visualstudio.com/">
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+      </a>
+      <a href="https://windsurf.dev/">
+        <img src="https://img.shields.io/badge/Windsurf-1F2937?style=for-the-badge&logo=wind&logoColor=white" alt="Windsurf">
+      </a>
+    </td>
+    </tr>
 </table>
 
 <h3 align="center">
